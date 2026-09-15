@@ -15,7 +15,7 @@ So far, I have used the following technologies in my projects:
 
 ###  What I'm Currently Building
 
-**CheapBeer** – a location-based platform for discovering local pubs and comparing beer prices. **(planing)**
+* **CheapBeer** – a location-based platform for discovering local pubs and comparing beer prices. **(planing)**
 
 ---
 
@@ -28,7 +28,7 @@ Growing up in the countryside kept me connected to nature, and I like staying ac
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 
 * **LinkedIn:** [linkedin.com/in/milinko-miletic](https://linkedin.com/in/milinko-miletic)
-* **Email:** [milinko.miletic03@gmail.com](mailto:milinko.miletic03@gmail.com)
+* **Email:** [milinko.miletic.dev@gmail.com](mailto:milinko.miletic.dev@gmail.com)
