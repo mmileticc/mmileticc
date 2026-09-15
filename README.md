@@ -1,9 +1,9 @@
-# Hi, I'm Milinko 👋
+# Hi, I'm Milinko 
 
 I'm a final-year Software Engineering student at the University of Belgrade (ETF). I build mobile and web apps from scratch because I love bringing functional, finished products to life.
 
 ---
-### 🛠️ Tech Stack & Philosophy
+###  Tech Stack & Philosophy
 
 > **"Languages and frameworks are just tools."** I adapt to whatever technology a project needs. 
 
@@ -13,15 +13,13 @@ So far, I have used the following technologies in my projects:
 * **Frontend & Mobile:** Android SDK, Angular, Vue
 ---
 
-### 🚀 What I'm Currently Building
+###  What I'm Currently Building
 
-* **Movie Lens:** Full-stack film discovery platform.
-* **FuelScan:** Receipt scanning and archiving app.
-* **GOTH:** Web tool converting guitar tablature to harmonica tabs.
+**CheapBeer** – a location-based platform for discovering local pubs and comparing beer prices. **(planing)**
 
 ---
 
-### ⚡ Beyond the Code
+###  Beyond the Code
 
 Growing up in the countryside kept me connected to nature, and I like staying active:
 * **Sports & Mind:** Basketball, boxing and chess.
